@@ -85,6 +85,40 @@ The project analyzes rating ranges from **1–5** across different feedback cate
 
 ---
 
+## 📸 Project Preview
+
+### 👥 Guest Purpose Analysis
+![Guest Purpose Analysis](Screenshots/image_1.png)
+
+### ⚧️ Gender Distribution
+![Gender Distribution](Screenshots/image_2.png)
+
+### 📈 NPS Category Analysis
+![NPS Category Analysis](Screenshots/image_3.png)
+
+### ⭐ Overall Experience Analysis
+![Overall Experience](Screenshots/image_4.png)
+
+### 📊 Guest Purpose Pivot Analysis
+![Guest Purpose Pivot](Screenshots/image_5.png)
+
+### 🎯 NPS Rating by Purpose
+![NPS Rating by Purpose](Screenshots/image_6.png)
+
+### 🏨 Feedback Category Analysis
+![Feedback Category Analysis](Screenshots/image_7.png)
+
+### 📉 NPS Trend Over Time
+![NPS Trend](Screenshots/image_8.png)
+
+### 🔎 Rating Range Analysis
+![Rating Range Analysis](Screenshots/image_9.png)
+
+### 📋 Feedback Quality By Rating Range
+![Final Analysis](Screenshots/image_10.png)
+
+---
+
 ## 📁 Project Structure
 
 ```text
